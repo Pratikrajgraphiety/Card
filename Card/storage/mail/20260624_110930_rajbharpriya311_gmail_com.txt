@@ -1,0 +1,6 @@
+To: rajbharpriya311@gmail.com
+Subject: Verify your AstitvaHub email
+
+Open this secure link to verify your email:
+
+http://localhost/Card/public/verify-email?token=572739ba6d01563c6c2e288606bc03a20509c6a9fbb9a817b8796bd65a700498
